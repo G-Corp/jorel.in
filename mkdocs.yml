@@ -1,0 +1,13 @@
+site_name: jorel.in
+pages:
+  - Overview: index.md
+  - Documentation:
+    - Installation: installation.md
+    - Release specification file: configuration.md
+    - Providers: providers.md
+    - Commands: commands.md
+    - Options: options.md
+    - Contribute: help.md
+theme: flatly
+copyright: 'Copyright &copy; 2015 Grégoire Lejeune, &copy; 2015-2016 BotsUnit'
+
